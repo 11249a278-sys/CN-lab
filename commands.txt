@@ -1,0 +1,9 @@
+netstat -an
+ipconfig
+nslookup google.com
+tracert google.com
+ping google.com
+hostname
+getmac
+arp -a
+tasklist
